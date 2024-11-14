@@ -35,23 +35,23 @@ Make sure you have **Node.js** and **npm** installed on your machine.
    > ```npm install```
 4. Run the development server
    > ```npm run dev```
-5. Open http://localhost:3000 in your browser to view the application
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application
 
 
 ## Pages and features
 ### Home page(```/```):
-Displays a welcome message and navigation Links
+- Displays a welcome message and navigation Links
 
 ### About Us Page(```/about```):
-Contains information about ABC India and its products and services.
+- Contains information about ABC India and its products and services.
 
 ### Contact Us Page(```/contact```):
-Displays the contact address for ABC India.
+- Displays the contact address for ABC India.
 
 ### Login Page(```/Login```):
-Contains a login form with fields for User ID and Password.
-Includes a link with signup(placeholder)
+- Contains a login form with fields for User ID and Password.
+- Includes a link with signup(placeholder)
 
 ### Layout Component:
-the ```layout.js``` component contains the header and footer, which are shared across all pages.
-The header and footer include links to the Home, About Us, Contact Us, and Login pages.
+- The ```layout.js``` component contains the header and footer, which are shared across all pages.
+- The header and footer include links to the Home, About Us, Contact Us, and Login pages.
