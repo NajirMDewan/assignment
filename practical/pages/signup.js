@@ -14,5 +14,6 @@ export default function Signup() {
                     <Link href="/login"><button>Login</button></Link>
                 </form>
         </Layout>
+        
     );
 }
