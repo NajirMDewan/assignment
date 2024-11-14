@@ -48,10 +48,10 @@ Make sure you have **Node.js** and **npm** installed on your machine.
 ### Contact Us Page(```/contact```):
 - Displays the contact address for ABC India.
 
-### Login Page(```/Login```):
+### Login Page(```/login```):
 - Contains a login form with fields for User ID and Password.
 - Includes a link with signup(placeholder)
 
 ### Layout Component:
-- The ```layout.js``` component contains the header and footer, which are shared across all pages.
+- The ```Layout.js``` component contains the header and footer, which are shared across all pages.
 - The header and footer include links to the Home, About Us, Contact Us, and Login pages.
